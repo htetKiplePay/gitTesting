@@ -8,3 +8,7 @@ merge 1;
 merge 2;
 hi 1,2;
 hi 1,2;
+
+
+
+revert 3;
