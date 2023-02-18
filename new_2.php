@@ -4,3 +4,4 @@ new 2 commit 2
 merge 1
 merge 2
 hi 1;
+hi 2;
