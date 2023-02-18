@@ -8,3 +8,4 @@ echo "cherry pick sixth commit";
 echo "cherry pick seven commit";
 merge 1;
 merge 2;
+revert 1;
