@@ -1,4 +1,5 @@
 <?php
+revert 100;
 echo 'hello world';
 echo "second commit";
 echo "third commit";
