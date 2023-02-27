@@ -1,5 +1,4 @@
 <?php
-revert 100;
 echo 'hello world';
 echo "second commit";
 echo "third commit";
@@ -18,3 +17,4 @@ revert 6;
 revert 8;
 revert 9;
 revert 10;
+revert 11;
