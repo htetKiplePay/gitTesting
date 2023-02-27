@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="163cd381-8bf1-4709-88cc-6f75b81bf7a6" name="Changes" comment="revert 100" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feature/main_merge" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2LormLKawcIEWgIHMB05y4SKYT4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="163cd381-8bf1-4709-88cc-6f75b81bf7a6" name="Changes" comment="" />
+      <created>1676548434652</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676548434652</updated>
+      <workItem from="1676548437470" duration="2353000" />
+      <workItem from="1676638940329" duration="4569000" />
+      <workItem from="1676731693803" duration="5313000" />
+      <workItem from="1676742607821" duration="2104000" />
+      <workItem from="1676810571844" duration="1980000" />
+      <workItem from="1676872054073" duration="46000" />
+      <workItem from="1677505547526" duration="171000" />
+      <workItem from="1677505736296" duration="433000" />
+      <workItem from="1677506296785" duration="23000" />
+      <workItem from="1677506343212" duration="463000" />
+    </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1676548489644</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548489644</updated>
+    </task>
+    <task id="LOCAL-00002" summary="third commit">
+      <created>1676548528060</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548528060</updated>
+    </task>
+    <task id="LOCAL-00003" summary="third commit">
+      <created>1676548652938</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548652938</updated>
+    </task>
+    <task id="LOCAL-00004" summary="cherry pick fifth commit">
+      <created>1676548698536</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548698536</updated>
+    </task>
+    <task id="LOCAL-00005" summary="cherry pick fix">
+      <created>1676548985346</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676548985346</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cherry pick fix">
+      <created>1676549123780</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549123780</updated>
+    </task>
+    <task id="LOCAL-00007" summary="cherry pick six commit">
+      <created>1676549178231</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549178231</updated>
+    </task>
+    <task id="LOCAL-00008" summary="cherry pick six commit">
+      <created>1676549204283</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549204283</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cherry pick six commit">
+      <created>1676549350450</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549350450</updated>
+    </task>
+    <task id="LOCAL-00010" summary="cherry pick new commit">
+      <created>1676549495194</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549495194</updated>
+    </task>
+    <task id="LOCAL-00011" summary="cherry pick new_2 commit">
+      <created>1676549558094</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549558094</updated>
+    </task>
+    <task id="LOCAL-00012" summary=" new_2 commit 1">
+      <created>1676549724519</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549724519</updated>
+    </task>
+    <task id="LOCAL-00013" summary=" new_2 commit 1">
+      <created>1676549749664</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549749664</updated>
+    </task>
+    <task id="LOCAL-00014" summary=" new_2 commit 2">
+      <created>1676549976107</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1676549976107</updated>
+    </task>
+    <task id="LOCAL-00015" summary="merge 1">
+      <created>1676550024837</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1676550024837</updated>
+    </task>
+    <task id="LOCAL-00016" summary="merge 2">
+      <created>1676550069393</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1676550069393</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merge 2">
+      <created>1676638980232</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1676638980232</updated>
+    </task>
+    <task id="LOCAL-00018" summary="hi 1,2">
+      <created>1676639137901</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1676639137901</updated>
+    </task>
+    <task id="LOCAL-00019" summary="hi 1,2 hi 1,2">
+      <created>1676642854145</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1676642854145</updated>
+    </task>
+    <task id="LOCAL-00020" summary="revert 1 and 2">
+      <created>1676732888227</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1676732888228</updated>
+    </task>
+    <task id="LOCAL-00021" summary="revert 3">
+      <created>1676732941237</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1676732941237</updated>
+    </task>
+    <task id="LOCAL-00022" summary="delete revert 3">
+      <created>1676733246340</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1676733246340</updated>
+    </task>
+    <task id="LOCAL-00023" summary="maiin revert 1">
+      <created>1676733615766</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1676733615766</updated>
+    </task>
+    <task id="LOCAL-00024" summary="merge blank">
+      <created>1676733779323</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1676733779323</updated>
+    </task>
+    <task id="LOCAL-00025" summary="merge master">
+      <created>1676733911483</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1676733911483</updated>
+    </task>
+    <task id="LOCAL-00026" summary="main revert 2">
+      <created>1676734959676</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1676734959676</updated>
+    </task>
+    <task id="LOCAL-00027" summary="main merge revert 3">
+      <created>1676736048966</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1676736048966</updated>
+    </task>
+    <task id="LOCAL-00028" summary="main hi 1">
+      <created>1676736656905</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1676736656905</updated>
+    </task>
+    <task id="LOCAL-00029" summary="main hi 2">
+      <created>1676736746808</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1676736746808</updated>
+    </task>
+    <task id="LOCAL-00030" summary="main merge revert 4;">
+      <created>1676736842786</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1676736842786</updated>
+    </task>
+    <task id="LOCAL-00031" summary="main_merge merge 3 revert 5;">
+      <created>1676742729322</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1676742729323</updated>
+    </task>
+    <task id="LOCAL-00032" summary="main revert 6;">
+      <created>1676742862110</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1676742862110</updated>
+    </task>
+    <task id="LOCAL-00033" summary="merge">
+      <created>1676743041343</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1676743041343</updated>
+    </task>
+    <task id="LOCAL-00034" summary="merge last">
+      <created>1676744002026</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1676744002027</updated>
+    </task>
+    <task id="LOCAL-00035" summary="merge test">
+      <created>1676744085893</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1676744085893</updated>
+    </task>
+    <task id="LOCAL-00036" summary="merge test">
+      <created>1676744344697</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1676744344697</updated>
+    </task>
+    <task id="LOCAL-00037" summary="merge test">
+      <created>1677505583361</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505583361</updated>
+    </task>
+    <task id="LOCAL-00038" summary="revert 9">
+      <created>1677505756858</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505756858</updated>
+    </task>
+    <task id="LOCAL-00039" summary="revert 10">
+      <created>1677505979634</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677505979634</updated>
+    </task>
+    <task id="LOCAL-00040" summary="revert 100">
+      <created>1677506552199</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677506552200</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ID_WIDTH">
+                <map>
+                  <entry key="Table.Default.Date.ColumnIdWidth" value="108" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature/main_merge" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feture/cherry_pick_merge" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/feature/cherry_pick" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=" new_2 commit 1" />
+    <MESSAGE value=" new_2 commit 2" />
+    <MESSAGE value="merge 1" />
+    <MESSAGE value="merge 2" />
+    <MESSAGE value="hi 1,2" />
+    <MESSAGE value="hi 1,2 hi 1,2" />
+    <MESSAGE value="revert 1 and 2" />
+    <MESSAGE value="revert 3" />
+    <MESSAGE value="delete revert 3" />
+    <MESSAGE value="maiin revert 1" />
+    <MESSAGE value="merge blank" />
+    <MESSAGE value="merge master" />
+    <MESSAGE value="main revert 2" />
+    <MESSAGE value="main merge revert 3" />
+    <MESSAGE value="main hi 1" />
+    <MESSAGE value="main hi 2" />
+    <MESSAGE value="main merge revert 4;" />
+    <MESSAGE value="main_merge merge 3 revert 5;" />
+    <MESSAGE value="main revert 6;" />
+    <MESSAGE value="merge" />
+    <MESSAGE value="merge last" />
+    <MESSAGE value="merge test" />
+    <MESSAGE value="revert 9" />
+    <MESSAGE value="revert 10" />
+    <MESSAGE value="revert 100" />
+    <option name="LAST_COMMIT_MESSAGE" value="revert 100" />
+  </component>
+</project>

@@ -9,3 +9,4 @@ merge 2;
 hi 1,2;
 revert 1;
 revert 2;
+revert 11;
