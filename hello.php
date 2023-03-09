@@ -7,6 +7,7 @@ echo "cherry pick fith commit";
 merge 1;
 merge 2;
 merge 3;
+merge 4;
 
 
 
